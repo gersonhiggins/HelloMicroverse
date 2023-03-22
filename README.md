@@ -145,6 +145,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/gersonhiggins/HelloMicroverse/blob/add_structure/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
